@@ -1,0 +1,24 @@
+.image{
+    position: fixed;
+    width: 217vh;
+    height: 100vh;
+    
+}
+.buttons{
+    color: bisque;
+    align-items: center;
+    margin-top: 40vh;
+    justify-items: center;
+    position: fixed;
+    /* top: 40vh; */
+    transform: translateX(20vh);
+}
+@media only screen and (max-width: 765px){
+    .buttons{
+        padding: 0%;
+        left: 0%;
+        top: -20vh;
+        /* align-items: center; */
+        /* transform: translateX(20vh); */
+    }
+}
