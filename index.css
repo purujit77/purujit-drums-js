@@ -19,6 +19,6 @@
         left: 0%;
         top: -20vh;
         /* align-items: center; */
-        /* transform: translateX(20vh); */
+        transform: translateX(5vh);
     }
 }
